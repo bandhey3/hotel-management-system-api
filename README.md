@@ -33,6 +33,5 @@ A complete Hotel Management System that enables administrators to manage booking
 - Role-based access control (Admin, Staff, Customer)
 - Real-time availability checking
 - Payment gateway integration 
-- Email/SMS notifications
 
 ---
